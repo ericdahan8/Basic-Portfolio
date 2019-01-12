@@ -1,20 +1,21 @@
 #myheader {
     color:white;
     font-size: 50px;
-    border-style: solid;
-    border-width: thick;
-    border-color: black;
+    padding: 0px;
+    border-style: ridge;
+    border-width: thin;
+    border-color:white ;
     text-align: center;
-    margin-bottom: 15px;
+    margin-top: 0px;
     text-decoration: underline;
-    background-color: grey;
     font-style: normal;
     font-weight: bold;
+    background-image: url(../images/IMG_0069.jpeg);
 
   }
 
   h2 {
-      Color:black;
+      Color:white;
       font-size: 25px;
       text-align: left;
       margin-top: 15px;
@@ -29,21 +30,23 @@
   }
 
   #p1 {
-      color: white;
+      color: rgb(255, 255, 255);
+      width: 800px;
       text-align: left;
-      border-style: dotted;
-      border-width: 5px;
-      border-color: black;
-      background-color: grey;
+      border-style: solid;
+      border-width: thin;
+      border-color: white;
+     background-image: url(../images/IMG_0069.jpeg);
       font-size: 15px;
       /* Bold the text. */
       font-weight: bold;
       list-style-position: inside;
 
 
+
   }
   body {
-      background-color: beige;
+      background-image: url(../images/dark-paths.png);
   }
  
   .center {
@@ -51,4 +54,7 @@
       margin-left: auto;
       margin-right: auto;
       width: 25%;
+      border-style: solid;
+      border-width: thin;
+      border-color: white;
   }
