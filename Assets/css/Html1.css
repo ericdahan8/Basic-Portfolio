@@ -1,17 +1,12 @@
 #myheader {
-    color:white;
-    font-size: 50px;
-    padding: 0px;
-    border-style: ridge;
-    border-width: thin;
-    border-color:white ;
+    padding: 20px 0;
+    margin: 0;
+    margin-bottom: 0px;
+    font-size: 28px;
+    color: #eee;
     text-align: center;
-    margin-top: 0px;
-    text-decoration: underline;
-    font-style: normal;
-    font-weight: bold;
     background-image: url(../images/IMG_0069.jpeg);
-
+    
   }
 
   h2 {
@@ -26,7 +21,26 @@
 
   #menu {
       Color:blue;
-      font-size: 24
+      font-size: 24;
+      overflow: hidden;
+      background-color: beige;
+      padding: 0px;
+      margin-top: 0px;
+    
+  }
+  li {
+      display: inline;
+      font-size: 15px;
+  }
+
+  li a {
+      color: black;
+      padding: 50px;
+      text-decoration: none;
+      border-right: 5px solid;
+      border-color: white;
+      
+    
   }
 
   #p1 {
@@ -38,9 +52,9 @@
       border-color: white;
      background-image: url(../images/IMG_0069.jpeg);
       font-size: 15px;
-      /* Bold the text. */
       font-weight: bold;
       list-style-position: inside;
+      padding: 10px;
 
 
 
@@ -57,4 +71,7 @@
       border-style: solid;
       border-width: thin;
       border-color: white;
+      position: absolute;
+      top: 190px;
+      right: 100px;
   }
