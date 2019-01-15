@@ -1,11 +1,11 @@
 #myheader {
     padding: 20px 0;
-    margin: 0;
+    margin: -10px;
     margin-bottom: 0px;
     font-size: 28px;
     color: #eee;
     text-align: center;
-    background-image: url(../images/IMG_0069.jpeg);
+    background-image: url(../images/index.jpg);
     
   }
 
@@ -20,25 +20,32 @@
   }
 
   #menu {
-      Color:blue;
       font-size: 24;
       overflow: hidden;
-      background-color: beige;
-      padding: 0px;
-      margin-top: 0px;
+      background-color: transparent;
+    margin: 0px;
+      position: absolute;
+      margin-bottom: 0px;
+      margin-top: -15px;
+      margin-right:-10px;
+      margin-left:-10px;
+      font-family: Georgia, 'Times New Roman', Times, serif;
     
   }
   li {
       display: inline;
       font-size: 15px;
   }
+/* All good here*/
+
+
 
   li a {
-      color: black;
-      padding: 50px;
-      text-decoration: none;
-      border-right: 5px solid;
-      border-color: white;
+      color: white;
+      padding: 5px;
+   
+      
+      
       
     
   }
@@ -50,7 +57,7 @@
       border-style: solid;
       border-width: thin;
       border-color: white;
-     background-image: url(../images/IMG_0069.jpeg);
+     background-color: transparent;
       font-size: 15px;
       font-weight: bold;
       list-style-position: inside;
@@ -60,7 +67,7 @@
 
   }
   body {
-      background-image: url(../images/dark-paths.png);
+      background-image: url(../images/cdn.jpg);
   }
  
   .center {
@@ -72,6 +79,15 @@
       border-width: thin;
       border-color: white;
       position: absolute;
-      top: 190px;
+      top: 140px;
       right: 100px;
+  }
+
+  #kleinkwok {
+      color: white;
+
+  }
+
+  #peterallen {
+color: white;
   }
