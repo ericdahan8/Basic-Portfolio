@@ -1,11 +1,12 @@
 #myheader {
-    padding: 20px 0;
+    padding: 8px 0;
     margin: -10px;
     margin-bottom: 0px;
     font-size: 28px;
     color: #eee;
     text-align: center;
     background-image: url(../images/index.jpg);
+    
     
   }
 
@@ -15,6 +16,8 @@
       text-align: left;
       margin-top: 15px;
       margin-bottom: 15px;
+      margin-left: 10px;
+      font-family: monospace;
 
       
   }
@@ -29,7 +32,7 @@
       margin-top: -15px;
       margin-right:-10px;
       margin-left:-10px;
-      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-family: monospace;
     
   }
   li {
@@ -54,14 +57,14 @@
       color: rgb(255, 255, 255);
       width: 800px;
       text-align: left;
-      border-style: solid;
+      border-style:none;
       border-width: thin;
       border-color: white;
      background-color: transparent;
       font-size: 15px;
-      font-weight: bold;
       list-style-position: inside;
       padding: 10px;
+      font-family: monospace;
 
 
 
@@ -75,19 +78,38 @@
       margin-left: auto;
       margin-right: auto;
       width: 25%;
-      border-style: solid;
+      border-style: ridge;
+      border-radius: 50%;
       border-width: thin;
       border-color: white;
       position: absolute;
-      top: 140px;
+      top: 170px;
       right: 100px;
   }
 
   #kleinkwok {
       color: white;
+      text-align: center;
+      border-style: solid;
+      border-width: thin;
+      border-color: white;
+     background-color: transparent;
+      font-size: 15px;
+      list-style-position: inside;
+      padding: 10px;
+      font-family: fantasy;
 
   }
 
   #peterallen {
 color: white;
+text-align: center;
+border-style: solid;
+      border-width: thin;
+      border-color: white;
+     background-color: transparent;
+      font-size: 15px;
+      list-style-position: inside;
+      padding: 10px;
+      font-family: fantasy;
   }

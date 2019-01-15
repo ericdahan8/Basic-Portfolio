@@ -1,5 +1,5 @@
 #myheader {
-    padding: 20px 0;
+    padding: 8px 0;
     margin: -10px;
     margin-bottom: 0px;
     font-size: 28px;
@@ -19,7 +19,7 @@
     margin-top: -15px;
     margin-right:-10px;
     margin-left:-10px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: monospace;
 
   
 }
@@ -34,7 +34,7 @@ font-size: 15px;
 li a {
     color:white ;
     padding: 5px;
-    
+
 
   
 }
