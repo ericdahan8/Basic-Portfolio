@@ -20,9 +20,18 @@
     margin-right:-10px;
     margin-left:-10px;
     font-family: monospace;
+    top: 45px;
+
+}
+
+li a:hover {
+    background: black;
+
+
+}
 
   
-}
+
 li {
 display: inline;
 font-size: 15px;
@@ -33,7 +42,8 @@ font-size: 15px;
 
 li a {
     color:white ;
-    padding: 5px;
+    padding: 10px;
+    text-decoration: none;
 
 
   
