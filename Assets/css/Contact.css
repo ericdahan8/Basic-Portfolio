@@ -89,4 +89,5 @@ input, textarea {
 .container{
 color: white;
     text-align: left;
+    padding: 1px;
 }
