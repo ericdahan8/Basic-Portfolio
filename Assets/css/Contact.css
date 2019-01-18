@@ -1,7 +1,6 @@
 #myheader {
     padding: 8px;
     margin: -10px;
-    margin-bottom: 0px;
     font-size: 28px;
     color: #eee;
     text-align: center;
@@ -22,11 +21,10 @@ h3 {
 
 #menu {
     font-size: 24;
-    overflow: hidden;
     background-color:transparent;
-    margin: 0px;
+
     position: absolute;
-    margin-bottom: 0px;
+
     margin-top: -15px;
     margin-right:-10px;
     margin-left:-10px;
@@ -74,13 +72,11 @@ input, textarea {
 
     width: 100%;
     padding: 12px;
-    Border: 1px Solid;
+    Border: Solid;
     background-image: url(../images/index.jpg);
     border-radius: 4px;
     box-sizing: border-box;
-    margin-top: 6px;
     margin-bottom: 16px;
-    resize: vertical;
     color: white;
     
 }
@@ -89,5 +85,5 @@ input, textarea {
 .container{
 color: white;
     text-align: left;
-    padding: 1px;
+  
 }

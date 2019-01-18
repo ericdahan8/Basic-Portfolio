@@ -1,7 +1,6 @@
 #myheader {
     padding: 8px;
     margin: -10px;
-    margin-bottom: 0px;
     font-size: 28px;
     color: #eee;
     text-align: center;
@@ -24,11 +23,11 @@
 
   #menu {
       font-size: 24;
-      overflow: hidden;
+
       background-color: transparent;
-    margin: 0px;
+  
       position: absolute;
-      margin-bottom: 0px;
+    
       margin-top: -15px;
       margin-right:-10px;
       margin-left:-10px;
@@ -72,7 +71,6 @@
       border-color: coral;
      background-color: transparent;
       font-size: 15px;
-      list-style-position: inside;
       padding: 10px;
       font-family: monospace;
 
@@ -85,7 +83,6 @@
  
   .center {
       display: block;
-      margin-right: auto;
       width: 25%;
       border-style: groove;
       border-radius: 50%;
@@ -111,7 +108,6 @@ align-content: center;
       border-color: white;
      background-color: transparent;
       font-size: 10px;
-      list-style-position: inside;
       padding: 10px;
       font-family: fantasy;
     
@@ -141,7 +137,6 @@ border-style: none;
       border-color: white;
      background-color: transparent;
       font-size: 10px;
-      list-style-position: inside;
       padding: 10px;
       font-family: fantasy;
     
