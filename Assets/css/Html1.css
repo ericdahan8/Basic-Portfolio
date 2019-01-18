@@ -1,5 +1,5 @@
 #myheader {
-    padding: 8px 0;
+    padding: 8px;
     margin: -10px;
     margin-bottom: 0px;
     font-size: 28px;
@@ -85,7 +85,6 @@
  
   .center {
       display: block;
-      margin-left: auto;
       margin-right: auto;
       width: 25%;
       border-style: groove;
@@ -94,7 +93,9 @@
       border-color: coral;
       position: absolute;
       top: 170px;
-      right: 100px;
+      right: 50px;
+      
+    
   }
 
   .logo2 {

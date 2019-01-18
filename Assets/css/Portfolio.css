@@ -1,5 +1,5 @@
 #myheader {
-    padding: 8px 0;
+    padding: 8px;
     margin: -10px;
     margin-bottom: 0px;
     font-size: 28px;
@@ -56,4 +56,32 @@ body {
 h2 {
 
 color: white;
+}
+
+#portfoliocard1 {
+    border: solid;
+    padding:10px;
+    margin: 10px;
+    text-align: center
+    }
+    
+#portfoliocard2 {
+    border: solid;
+padding:10px;
+margin: 10px;
+text-align: center
+}
+
+#portfoliocard3 {
+    border: solid;
+padding:10px;
+margin: 10px;
+text-align: center
+}
+
+#portfoliocard4 {
+    border: solid;
+padding:10px;
+margin: 10px;
+text-align: center;
 }
